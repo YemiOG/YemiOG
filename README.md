@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ### Currently Vibing to
-<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1E366ryY7Xokpn?utm_source=generator&amp;theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+![Spotify](https://spotify-github-readme.vercel.app/api/spotify)]
