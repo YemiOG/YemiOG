@@ -18,6 +18,10 @@
 
 ### How I spent my time
 <!--START_SECTION:waka-->
+```text
+JavaScript   14 mins         █████████████████████▒░░░   85.78 % 
+Other        2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+```
 <!--END_SECTION:waka-->
 ### Currently Vibing to
 ![Spotify](https://spotify-github-readme.vercel.app/api/spotify)]
