@@ -2,7 +2,7 @@
 <h3 align="center"> I am Yemi 🐻 </h2>
 
 ### 🧔‍♂️ About Me:
-- 💻 A prospecrive Backend Developer
+- 💻 Backend Developer
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on a Social Media Platform for Developers using the MERN stack
 - 🌱 I’m currently learning NodeJs, Express and other applicable Frameworks
