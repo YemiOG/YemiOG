@@ -5,10 +5,12 @@
 - 💻 Backend Developer
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on a Social Media Platform for Developers using the MERN stack
-- 🌱 I’m currently learning NodeJs, Express and other applicable Frameworks
+- 🌱 I’m currently learning NodeJs, Express, React and other applicable Frameworks
 - 👯 I’m looking to collaborate on projects I can learn from
+- ⚽ Real Madrid Fan #HalaMadrid
 - ⚡ Fun fact: I watch at least 10 episodes of 'The Office' everyweek
 - 📫 You can reach me via email @ yemi.ogundeyi@gmail.com
+
 
 ### :hammer_and_wrench: Technologies and Tools I use:
 <p align = "left"/>
