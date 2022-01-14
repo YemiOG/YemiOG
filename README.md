@@ -21,10 +21,9 @@
 ### How I spent my time
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 42 mins   ████████████████████████░   96.54 % 
-YAML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+JavaScript   5 hrs 27 mins   ████████████████████████▒   97.08 % 
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+YAML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 <!--END_SECTION:waka-->
 ### Currently Vibing to
