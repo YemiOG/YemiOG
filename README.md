@@ -29,4 +29,4 @@ Markdown     4 mins          ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 ### Currently Vibing to
-![Spotify](https://spotify-github-readme.vercel.app/api/spotify)]
+![Spotify](https://spotify-github-readme.vercel.app/api/spotify)
