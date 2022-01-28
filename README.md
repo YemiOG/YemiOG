@@ -21,11 +21,11 @@
 ### How I spent my time
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 37 mins   ████████████████████▒░░░░   80.85 % 
-JSON         55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-HTML         51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+JavaScript   8 hrs 57 mins   ████████████████████▓░░░░   82.05 % 
+JSON         54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+HTML         51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 <!--END_SECTION:waka-->
 ### Currently Vibing to
