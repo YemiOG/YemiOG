@@ -21,10 +21,8 @@
 ### How I spent my time
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 59 mins    ███████████████████▒░░░░░   77.85 % 
-Bash         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-JSON         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Git Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+JavaScript   47 mins         ████████████████████▒░░░░   81.98 % 
+JSON         10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.96 % 
 ```
 <!--END_SECTION:waka-->
 ### Currently Vibing to
