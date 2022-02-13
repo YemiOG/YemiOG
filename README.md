@@ -22,9 +22,9 @@
 ### How I spent my time
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 27 mins   ████████████████████████░   96.28 % 
-Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+JavaScript   2 hrs 42 mins   ███████████████████████▓░   94.00 % 
+Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 ```
 <!--END_SECTION:waka-->
 ### Currently Vibing to
