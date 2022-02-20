@@ -22,9 +22,8 @@
 ### How I spent my time
 <!--START_SECTION:waka-->
 ```text
-Total: 3 mins
-
-HTML         3 mins          ████████████████████▓░░░░   82.78 % 
+HTML         3 mins          ████████████████▒░░░░░░░░   65.11 % 
+JavaScript   2 mins          ████████▓░░░░░░░░░░░░░░░░   34.89 % 
 ```
 <!--END_SECTION:waka-->
 ### Currently Vibing to
