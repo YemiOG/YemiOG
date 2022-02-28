@@ -21,13 +21,16 @@
 
 ### How I spent my time
 <!--START_SECTION:waka-->
+
 ```text
-HTML         3 hrs 37 mins   █████████████░░░░░░░░░░░░   51.88 % 
-CSS          2 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   35.99 % 
-Markdown     40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+HTML         4 hrs 21 mins   ████████████▓░░░░░░░░░░░░   50.53 %
+CSS          3 hrs 17 mins   █████████▓░░░░░░░░░░░░░░░   38.10 %
+Markdown     48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
+
 <!--END_SECTION:waka-->
 ### Currently Vibing to
 ![Spotify](https://spotify-github-readme.vercel.app/api/spotify)
