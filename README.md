@@ -5,7 +5,7 @@
 - 💻 Software Developer
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on a Social Media Platform for Developers using the MERN stack
-- 🌱 I’m currently learning NodeJs, Express, React and other applicable Frameworks
+- 🌱 I’m currently learning NodeJs, Express, React, HTML, CSS and other applicable Frameworks
 - 👯 I’m looking to collaborate on projects I can learn from
 - ⚽ Real Madrid Fan #HalaMadrid
 - ⚡ Fun fact: I watch at least 10 episodes of 'The Office' everyweek
@@ -18,6 +18,9 @@
 <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt ="expressjs" src= "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 <img alt ="reactjs" src = https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB/>
+<img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML5&style=flat&logoColor=white">
+<!-- CSS -->
+<img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=CSS3&style=flat&logoColor=white">
 
 ### How I spent my time
 <!--START_SECTION:waka-->
